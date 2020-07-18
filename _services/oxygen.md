@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Oxygen Concentrator'
 image: '/services/default.png'
 ---
 
