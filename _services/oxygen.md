@@ -3,8 +3,7 @@ title: 'Oxygen Concentrator'
 image: '/services/default.png'
 ---
 
-Oxygen Concentrator is a device that concentrates the oxygen from a gas supply (typically ambient air) by selectively removing nitrogen to supply  
-an oxygen-enriched product gas stream.
+Oxygen Concentrator is a device that concentrates the oxygen from a gas supply (typically ambient air) by selectively removing nitrogen to supply an oxygen-enriched product gas stream.
 
 ## Two methods in common use are:  
 
