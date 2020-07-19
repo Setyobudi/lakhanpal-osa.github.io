@@ -1,6 +1,6 @@
 ---
 title: 'Sanjeev Lakhanpal'
-image: '/images/team/asnjeev-lakhanpal.jpeg'
+image: '/images/team/sanjeev-lakhanpal.jpeg'
 jobtitle: 'Sales Manager'
 linkedinurl: 'https://www.linkedin.com/'
 ---
