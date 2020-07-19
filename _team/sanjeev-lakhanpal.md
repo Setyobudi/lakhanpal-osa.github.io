@@ -1,6 +1,6 @@
 ---
 title: 'Sanjeev Lakhanpal'
-image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
+image: '/images/team/asnjeev-lakhanpal.jpeg'
 jobtitle: 'Sales Manager'
 linkedinurl: 'https://www.linkedin.com/'
 ---
