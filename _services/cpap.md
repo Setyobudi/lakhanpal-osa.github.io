@@ -14,3 +14,5 @@ Continous Positive Air Pressure (CPAP) device, is a specially designed device fo
 
 It is a non-invasive treatment for sleep disorder breathing patient, those who have other metabolic disorders like  
 diabetes, hypertension, neurological disorders. Such patients will get quality of life after using CPAP therapy.
+
+![](/images/services/cpap_1.png) ![](/images/services/cpap_2.png)
