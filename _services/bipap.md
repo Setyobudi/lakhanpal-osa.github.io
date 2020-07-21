@@ -17,3 +17,5 @@ There are three types of Bilevel devices:
 2. BiPAP-ST
 3. BiPAP-Pro
 
+![](/images/services/bipap_1.jpg)
+
