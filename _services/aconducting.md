@@ -34,11 +34,11 @@ There are several types of sleep apnea, but the most common is **obstructive sle
 - Morning headaches.
 - Nocturia (waking during the night to go to the bathroom)
 
-![](/images/services/osa_1.png) ![](/images/services/osa_2.jpg)
+![](/images/services/osa_2.jpg) ![](/images/services/osa_3.jpg)
 
 > Obstructive sleep apnea is classified by severity: Severe obstructive sleep apnea means that your AHI is greater than 30 (more than 30 episodes per hour) Moderate obstructive sleep apnea means that your AHI is between 15 and 30. Mild obstructive sleep apnea means that your AHI is between 5 and 15.
 
-![](/images/services/osa_3.jpg)
+
 
 
 
